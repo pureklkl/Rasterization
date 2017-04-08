@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CS580HW5/v14/.suo
+/Backup/CS580HW5.sln
+/Debug/CS580HW5.Build.CppClean.log
+/Debug/CS580HW5.log
+/ipch/CS580HW5-32d11364/CS580HW5-81311bfd.ipch
+/ipch/CS580HW5-a57d5e05/CS580HW5-81311bfd.ipch
+/CS580HW5.vcproj.pengyuanfan-PC.pengyuanfan.user
+/Assignment5.doc
